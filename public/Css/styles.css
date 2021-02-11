@@ -1,0 +1,93 @@
+body{
+    background: black;
+    padding-left: 50px;
+}
+
+header{
+    background: #546e7a;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    width: 550px;
+    height: auto;
+    border-radius: 15px 15px 0 0 ;
+    margin: auto;
+}
+section{
+    background: #546e7a;
+    padding: 50px 100px 0 100px;
+    width: 550px;
+    height: 1150px;
+    margin: 0 auto;
+}
+footer{
+    background: #546e7a;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 550px;
+    height: auto;
+    border-radius: 0 0 15px 15px;
+    margin: 0 auto;
+}
+p{
+    display: block;
+}
+section h1{
+    padding-left: 140px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+header h1{
+    margin: auto;
+    text-align: center;
+}
+footer p{
+    margin: 0;
+    text-align: center;
+}
+
+img{
+    display: inline-block;
+    width: 540px;
+    height: 250px;
+    padding-top: 0px;
+    border-radius: 1px;
+    border-radius: 15px;
+}
+audio{
+    width: 545px;
+    height: 45px;
+}
+
+.datos{
+    display: inline-block;
+    width: 45%;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.bloque-1{
+    height: 160px;
+    margin: auto;
+    text-align: center;
+}
+
+.bloque-2{
+    height: auto;
+}
+
+.letra-en{
+    display: inline-block;
+    width: 48%;
+    height: auto;
+    padding-top: 25px;
+}
+.letra-es{
+    display: inline-block;
+    width: 48%;
+    height: auto;
+    padding-top: 25px;
+    padding-left: 5px;
+    
+}
+
